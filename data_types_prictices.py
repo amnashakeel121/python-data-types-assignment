@@ -26,8 +26,9 @@ print("Milk_Quantity:"milk_quantity)
 #Boolean Example
 light_on= "true"
 light_off="false"
-print("True:", true)
-print("False:",false)
+print("Light_On :", light_on)
+print("Light_Off:",light_off)
+
 
 
 
