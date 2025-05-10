@@ -20,15 +20,14 @@ print("Message_02:", message_02)
 price= 25.5
 temperature= 17.5 #Celcius7
 milk_quantity= 1.5 # Liter
-print("Price:"price)
-print("temperature:"temperature)
-print("Milk_Quantity:"milk_quantity)
+print("Price:", price)
+print("temperature:", temperature)
+print("Milk_Quantity:", milk_quantity)
 #Boolean Example
-light_on= "true"
-light_off="false"
+light_on= "True" # if lights_on condition is true.
+light_off="false" # if lights_off condition is false.
 print("Light_On :", light_on)
 print("Light_Off:",light_off)
-
 
 
 
